@@ -8,6 +8,7 @@ The Online Quiz Application is a full-stack Java-based system that provides a di
 
 This project simplifies traditional assessments by offering a user-friendly digital quiz platform. Students can take quizzes within time limits, and admins can manage content efficiently. With real-time evaluation, secure login, and responsive design, it serves as a scalable solution for educational institutions and e-learning platforms.
 
+
 **🚀 Key Features**
 
 👩‍🎓 Student Module: Registration, login, take quizzes, view scores.
@@ -23,6 +24,7 @@ This project simplifies traditional assessments by offering a user-friendly digi
 📱 Responsive UI: Designed with Bootstrap for mobile and desktop.
 
 
+
 **🛠️ Technology Stack**
 
   Frontend: HTML, CSS, Bootstrap
@@ -36,6 +38,7 @@ This project simplifies traditional assessments by offering a user-friendly digi
   APIs: Spring Boot REST APIs
 
   Authentication: Role-based (Student/Admin)
+
   
 
 **🎯 Project Goals**
