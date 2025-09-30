@@ -1,12 +1,12 @@
 📘 Online Quiz Application
 
-📖 Abstract
+**📖 Abstract**
 The Online Quiz Application is a full-stack Java-based system that provides a digital platform for conducting quizzes. It features a responsive frontend (HTML, CSS, Bootstrap) and a secure backend (Spring Boot + MySQL). Students can register, attempt quizzes with timers, and view results instantly, while admins manage questions and monitor performance. The system ensures fairness through automatic evaluation and role-based authentication.
 
-📌 Introduction
+**📌 Introduction**
 This project simplifies traditional assessments by offering a user-friendly digital quiz platform. Students can take quizzes within time limits, and admins can manage content efficiently. With real-time evaluation, secure login, and responsive design, it serves as a scalable solution for educational institutions and e-learning platforms.
 
-🚀 Key Features
+**🚀 Key Features**
 
 👩‍🎓 Student Module: Registration, login, take quizzes, view scores.
 
@@ -20,28 +20,30 @@ This project simplifies traditional assessments by offering a user-friendly digi
 
 📱 Responsive UI: Designed with Bootstrap for mobile and desktop.
 
-🛠️ Technology Stack
 
-Frontend: HTML, CSS, Bootstrap
+**🛠️ Technology Stack**
 
-Backend: Java, Spring Boot
+  Frontend: HTML, CSS, Bootstrap
 
-Database: MySQL
+  Backend: Java, Spring Boot
 
-ORM: JPA (Hibernate)
+  Database: MySQL
 
-APIs: Spring Boot REST APIs
+  ORM: JPA (Hibernate)
 
-Authentication: Role-based (Student/Admin)
+  APIs: Spring Boot REST APIs
 
-🎯 Project Goals
+  Authentication: Role-based (Student/Admin)
+  
 
-✅ Provide a digital alternative to paper-based assessments.
+**🎯 Project Goals**
 
-✅ Ensure fair, secure, and transparent evaluation of quizzes.
+  ✅ Provide a digital alternative to paper-based assessments.
 
-✅ Deliver an easy-to-use platform for both students and administrators.
+  ✅ Ensure fair, secure, and transparent evaluation of quizzes.
 
-✅ Make the system scalable for large educational institutions.
+  ✅ Deliver an easy-to-use platform for both students and administrators.
 
-✅ Enhance the learning experience with quick feedback.
+  ✅ Make the system scalable for large educational institutions.
+
+  ✅ Enhance the learning experience with quick feedback.
