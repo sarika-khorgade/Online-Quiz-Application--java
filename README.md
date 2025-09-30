@@ -1,9 +1,11 @@
 📘 Online Quiz Application
 
 **📖 Abstract**
+
 The Online Quiz Application is a full-stack Java-based system that provides a digital platform for conducting quizzes. It features a responsive frontend (HTML, CSS, Bootstrap) and a secure backend (Spring Boot + MySQL). Students can register, attempt quizzes with timers, and view results instantly, while admins manage questions and monitor performance. The system ensures fairness through automatic evaluation and role-based authentication.
 
 **📌 Introduction**
+
 This project simplifies traditional assessments by offering a user-friendly digital quiz platform. Students can take quizzes within time limits, and admins can manage content efficiently. With real-time evaluation, secure login, and responsive design, it serves as a scalable solution for educational institutions and e-learning platforms.
 
 **🚀 Key Features**
